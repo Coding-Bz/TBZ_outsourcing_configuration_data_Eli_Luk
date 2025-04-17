@@ -1,0 +1,4 @@
+<configuration>
+    <SERVER_IP>192.168.0.50</SERVER_IP>
+    <PORT>9090</PORT>
+</configuration>

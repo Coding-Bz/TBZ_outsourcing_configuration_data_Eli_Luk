@@ -1,0 +1,13 @@
+SQLite version 3.49.1 2025-02-18 13:38:58
+Enter ".help" for usage hints.
+Connected to a transient in-memory database.
+Use ".open FILENAME" to reopen on a persistent database.
+sqlite> .open "C:/TBZ_outsourcing_configuration_data_Eli_Luk/SecureLog/konto.db"
+sqlite> .tables
+konto
+sqlite> .tables
+konto
+sqlite> SELECT * FROM konto;
+1|logolo|TBZ123
+2|Demo|Probe123
+sqlite>
